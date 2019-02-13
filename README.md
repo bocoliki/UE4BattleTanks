@@ -1,2 +1,2 @@
 # UE4BattleTanks
-head to head tank battle game for learning purposes
+Simple Tank battle game for learning Unreal Engine 4, source control and other stuff
